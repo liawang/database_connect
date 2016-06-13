@@ -45,3 +45,7 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+$ cat .gitignore
+# exclude everything except config.php
+/mtk/config.php
